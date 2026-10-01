@@ -54,7 +54,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Holi, soy coral",
+            text = "Coral D. Pérez Manrique",
             fontSize = 30.sp, // Tamaño de letra llamativo
             modifier = Modifier.padding(bottom = 32.dp) // Espacio debajo del texto
         )
